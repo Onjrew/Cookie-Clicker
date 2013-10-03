@@ -2,7 +2,7 @@ Cookie-Clicker
 ==============
 
 This is a very small Python script to click the cookie at http://orteil.dashnet.org/cookieclicker/.
-<<<<<<< HEAD
+
 
 When this script runs, it will take the current mouse coordinates on the screen, and simulate a mouse click at that location every 50ms. 
 
